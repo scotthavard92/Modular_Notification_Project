@@ -61,7 +61,7 @@ const int buttonPin = 4;
 
 //IFTTT testing
 const char event[] = "email_me"; //IFTTT event
-const char privatekey[] = "kPZ0TWCjsVxtJytjSN1Zab_JQj_I7w6AVPQEUpvmgq3"; //IFTTT secret key
+const char privatekey[] = ".."; //IFTTT secret key
 
 /***************Setup***************/
 /***********************************/

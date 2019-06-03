@@ -1,6 +1,6 @@
 # Modular Notification Project
 
-modufi.org
+[modufi.org](https://modufi.org/)
 ## Summary
 Project using the ESP8266, an array of sensors, and the IFTTT Maker service to provide notifications via text and email.
 
